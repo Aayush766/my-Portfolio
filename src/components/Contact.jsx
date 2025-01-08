@@ -92,7 +92,7 @@ return (
           <span className='text-white font-medium mb-4'>Your Email</span>
           <input
           type ='email'
-          name ='name'
+          name ='email'
           value={form.email}
           onChange={handleChange}
           placeholder="What's Your email ?"
